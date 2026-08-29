@@ -85,10 +85,3 @@ Notable techniques used:
 2. Open with **Power BI Desktop** (recent version recommended for Field Parameter support)
 3. If connected to a live data source, update credentials under **File → Options and settings → Data source settings**
 4. Refresh the model if needed
-
----
-
-
-## 📄 License
-
-*(Add your preferred license here, e.g. MIT)*
